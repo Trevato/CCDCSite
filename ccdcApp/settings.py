@@ -77,7 +77,7 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
         "NAME": "frog",
-        "USER": "root",
+        "USER": "Django",
         "PASSWORD": "College2020",
         "HOST": "172.20.240.20",
         "PORT": "3306",
