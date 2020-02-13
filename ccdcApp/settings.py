@@ -76,7 +76,7 @@ WSGI_APPLICATION = 'ccdcApp.wsgi.application'
 DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
-        "NAME": "frog",
+        "NAME": "Frog",
         "USER": "Django",
         "PASSWORD": "College2020",
         "HOST": "172.20.240.20",
